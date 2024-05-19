@@ -1,0 +1,26 @@
+my_project/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── data/
+│   ├── training_data.csv
+│   ├── unlabelled_test_data.csv
+│   └── sample_submission.csv
+│
+├── notebooks/
+│   ├── data_preprocessing.ipynb
+│   ├── model_training.ipynb
+│   └── hyperparameter_optimization.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   └── hyperparameter_optimization.py
+│
+├── results/
+│   ├── confusion_matrix.png
+│   └── model_performance.csv
+│
+└── app/
+    └── app.py
