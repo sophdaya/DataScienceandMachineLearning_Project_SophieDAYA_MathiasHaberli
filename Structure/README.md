@@ -43,7 +43,7 @@ Which is the best model? Based on our evaluations, the best performing model is 
 | Logistic Regression   | 0.464049  |0.466667| 0.462684 | 0.466667 |
 | KNN                   | 0.404224  |0.358333| 0.34642  | 0.358333 |
 | Decision Tree         | 0.318825  |0.322917| 0.315863 | 0.336198 |
-| Random Forest         |           |        |          |          |
+| Random Forest         | 0.41074   |0.413542| 0.400764 | 0.413542 |
 | BERT                  |           |        |          |          |
 
 The confusion matrix: 
