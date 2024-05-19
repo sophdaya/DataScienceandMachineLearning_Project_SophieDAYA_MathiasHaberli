@@ -32,7 +32,7 @@ We evaluate our models using the following metrics:
 - Accuracy
 
 ### Best Model
-Which is the best model? Based on our evaluations, the best performing model is [BERT]. Below is a summary of the results:
+Which is the best model? Based on our evaluations, the best performing model is BERT. Below is a summary of the results:
 
 | Model                 | Precision | Recall | F1-score | Accuracy |
 |-----------------------|-----------|--------|----------|----------|
@@ -40,7 +40,7 @@ Which is the best model? Based on our evaluations, the best performing model is 
 | KNN                   |           |        |          |          |
 | Decision Tree         |           |        |          |          |
 | Random Forest         |           |        |          |          |
-| [BERT]                |           |        |          |          |
+| BERT                  |           |        |          |          |
 
 The confusion matrix: 
 Show examples of some erroneous predictions. Can you understand where the error is coming from?
