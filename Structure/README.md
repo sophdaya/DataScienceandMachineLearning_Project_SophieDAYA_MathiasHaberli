@@ -2,7 +2,11 @@
 Predict the difficulty of French text using AI
 
 ## Overview of our project
-Our repository contains the code, data, and documentation for our machine learning model that predicts the difficulty level of French texts (from A1 to C2). This project aims to build a model that can predict the difficulty level of French texts. Indeed, it would help learners to find texts that match their skill level. 
+We created a startup, LogoRank, to revolutionise language learning. Our repository contains the code, data, and documentation for our machine learning model that predicts the difficulty level of French texts (from A1 to C2). This project aims to build a model that can predict the difficulty level of French texts. Indeed, it would help learners to find texts that match their skill level. 
+
+## Team members and contributions:
+- Sophie Daya:
+- Mathias Häberli:
 
 - ## Project Structure
 - `data/`: Contains the datasets.
@@ -54,4 +58,6 @@ Do some more analysis to better understand how your model behaves.
 Have a position on the leaderboard of this competition. Rank: 
 
 ### Link of the video:
+
+### Our Ranking on the Kaggle competition page: https://www.kaggle.com/competitions/predicting-the-difficulty-of-a-french-text-e4s/leaderboard
 
