@@ -49,3 +49,5 @@ Do some more analysis to better understand how your model behaves.
 
 Have a position on the leaderboard of this competition. Rank: 
 
+### Link of the video:
+
