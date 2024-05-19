@@ -4,11 +4,15 @@ Predict the difficulty of French text using AI
 ## Overview of our project
 Our repository contains the code, data, and documentation for our machine learning model that predicts the difficulty level of French texts (from A1 to C2). This project aims to build a model that can predict the difficulty level of French texts. Indeed, it would help learners to find texts that match their skill level. 
 
-## Structure
-- **Code**: contains the training and the test datasets
-- **Data**: contains the scripts for data processing, model training, and evaluation
-- **Submissions/Rank competition**: include the submission files for the competition
-- **UI**: Streamlit application for demonstrating our model
+- ## Project Structure
+- `data/`: Contains the datasets.
+- `notebooks/`: Jupyter notebooks for experimentation.
+- `src/`: Source code files.
+- `results/`: Results and evaluation metrics.
+- `app/`: Streamlit application.
+- `README.md`: Project documentation.
+- `requirements.txt`: Project dependencies.
+- `LICENSE`: License information.
 
 ## Data
 The data for this project is located in the `Data` folder and includes:
