@@ -1,0 +1,2 @@
+# DataScienceandMachineLearning_Project_SophieDAYA_MathiasHaberli
+Predict the difficulty of French text using AI
