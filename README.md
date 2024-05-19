@@ -38,7 +38,7 @@ Which is the best model? Based on our evaluations, the best performing model is 
 |-----------------------|-----------|--------|----------|----------|
 | Logistic Regression   | 0.464049  |0.466667| 0.462684 | 0.466667 |
 | KNN                   | 0.404224  |0.358333| 0.34642  | 0.358333 |
-| Decision Tree         | 0.288374  |0.29375 | 0.286486 | 0.334896 |
+| Decision Tree         | 0.318825  |0.322917| 0.315863 | 0.336198 |
 | Random Forest         |           |        |          |          |
 | BERT                  |           |        |          |          |
 
