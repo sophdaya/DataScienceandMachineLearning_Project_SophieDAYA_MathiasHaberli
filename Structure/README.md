@@ -59,5 +59,5 @@ Have a position on the leaderboard of this competition. Rank:
 
 ### Link of the video:
 
-### Our Ranking on the Kaggle competition page: https://www.kaggle.com/competitions/predicting-the-difficulty-of-a-french-text-e4s/leaderboard
+### Our Ranking on the Kaggle competition page: [Ranking in Kaggle](https://www.kaggle.com/competitions/predicting-the-difficulty-of-a-french-text-e4s/leaderboard)
 
