@@ -16,7 +16,6 @@ We created a startup, LogoRank, to revolutionise language learning. Our reposito
 - `app/`: Streamlit application.
 - `README.md`: Project documentation.
 - `requirements.txt`: Project dependencies.
-- `LICENSE`: License information.
 
 ## Data
 The data for this project is located in the `Data` folder and includes:
