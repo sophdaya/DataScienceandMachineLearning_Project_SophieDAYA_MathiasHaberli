@@ -1,5 +1,4 @@
-# DataScienceandMachineLearning_Project_SophieDAYA_MathiasHaberli
-Predict the difficulty of French text using AI
+# Predict the difficulty of French text using AI
 
 ## Overview of our project
 We created a startup, LogoRank, to revolutionise language learning. Our repository contains the code, data, and documentation for our machine learning model that predicts the difficulty level of French texts (from A1 to C2). This project aims to build a model that can predict the difficulty level of French texts. Indeed, it would help learners to find texts that match their skill level. 
