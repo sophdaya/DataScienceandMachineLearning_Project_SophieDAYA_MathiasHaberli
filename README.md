@@ -54,8 +54,6 @@ Show examples of some erroneous predictions. Can you understand where the error 
 
 Do some more analysis to better understand how your model behaves.
 
-Have a position on the leaderboard of this competition. Rank: 
-
 ### Link of the video: [Youtube Video] to change (URL)
 
 ### Our Ranking on the Kaggle competition page: [Ranking in Kaggle](https://www.kaggle.com/competitions/predicting-the-difficulty-of-a-french-text-e4s/leaderboard)
