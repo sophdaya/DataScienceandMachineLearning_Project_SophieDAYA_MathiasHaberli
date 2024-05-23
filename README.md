@@ -14,14 +14,12 @@
 - Conducted hyperparameter tuning and performance evaluation for the Decision Tree, Random Forest, and CamemBERT models.
 - Analyzed the results and metrics for the Decision Tree, Random Forest, and CamemBERT models.
 - Contributed to the development of the Streamlit application for the real-world application of the best model.
-- Participated in drafting the README and documenting the project.
 - Conducted the final analysis and comparison of all models.
 
 #### Sophie Daya
 - Implemented the Logistic Regression and K-Nearest Neighbors (KNN) models.
 - Conducted hyperparameter tuning and performance evaluation for the Logistic Regression and KNN models.
 - Analyzed the results and metrics for the Logistic Regression and KNN models.
-- Participated in drafting the README and documenting the project.
 - Editing the Youtube video on iMovie
 
 
