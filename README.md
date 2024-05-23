@@ -1,9 +1,41 @@
 # Predict the difficulty of French text using AI
+
+### Participation Report
+
+#### Mathias Häberli
+- Implemented the Decision Tree, Random Forest, and CamemBERT models.
+- Conducted hyperparameter tuning and performance evaluation for the Decision Tree, Random Forest, and CamemBERT models.
+- Prepared the datasets and handled data preprocessing.
+- Analyzed the results and metrics for the Decision Tree, Random Forest, and CamemBERT models.
+- Contributed to the development of the Streamlit application dor real-world application of the best model.
+- Participated in drafting the README and documenting the project.
+- Conducted the final analysis and comparison of all models.
+
+#### Sophie Daya
+- Implemented the Logistic Regression and K-Nearest Neighbors (KNN) models.
+- Conducted hyperparameter tuning and performance evaluation for the Logistic Regression and KNN models.
+- Prepared the datasets and handled data preprocessing.
+- Analyzed the results and metrics for the Logistic Regression and KNN models.
+- Participated in drafting the README and documenting the project.
+- Editing the Youtube video on iMovie
+
+#### Joint Contributions
+- Contributed to the overall project planning and organization.
+- Collaborated on the data preparation and preprocessing steps.
+- Worked together on the error analysis for the CamemBERT model.
+- Collaborated on creating the presentation video for the project.
+- Shared responsibilities in documenting the project and writing the README file.
+
+
+
+
+
+
 ### Directories and Files
 
 - **App**
   - `App_Code_Streamlit.py`: Streamlit application code for interactive data visualization.
-  - `CamemBERT_Model_For_App`: Pre-trained Camembert model for integration with the Streamlit app. As the file is too large, it is available for download via [this Google Drive link](https://drive.google.com/file/d/1I768jFU9ZFWEYv7Vz4naCnHYlUJG4bso/view?usp=share_link).
+  - `CamemBERT_Model_For_App`: Pre-trained Camembert model for integration with the Streamlit app. As the file is too large, it is available for download via [this Google Drive link]([https://drive.google.com/file/d/1I768jFU9ZFWEYv7Vz4naCnHYlUJG4bso/view?usp=share_link](https://drive.google.com/file/d/1I768jFU9ZFWEYv7Vz4naCnHYlUJG4bso/view?usp=share_link).
 
   
 - **dataset**
