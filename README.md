@@ -9,6 +9,7 @@
 - ProjectPro. (2023). Optimize Hyper Parameters of Logistic Regression Model using Grid Search in Python. Retrieved from https://www.projectpro.io/recipes/optimize-hyper-parameters-of-logistic-regression-model-using-grid-search-in-python
 - DataCamp. (n.d.). Decision Tree Classification in Python Tutorial. Retrieved from https://www.datacamp.com/tutorial/decision-tree-classification-python
 - Real Python. (n.d.). Implementing a K-Nearest Neighbors (KNN) Algorithm in Python. Retrieved from https://realpython.com/knn-python/#a-step-by-step-knn-from-scratch-in-python
+- GeeksforGeeks. (n.d.). Random Forest Hyperparameter Tuning in Python. Retrieved from https://www.geeksforgeeks.org/random-forest-hyperparameter-tuning-in-python/
 
 
 ### Participation Report
