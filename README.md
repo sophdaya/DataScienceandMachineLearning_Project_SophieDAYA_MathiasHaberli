@@ -17,7 +17,7 @@ After analyzing the videos, LogoRank presents a list of videos that match the se
 
 ### 10.3. Demonstration in a video
 
-In this video, we will introduce you to our project and show you how LogoRank works: https://youtu.be/Nv-kFxzV-Ws
+In this video, we will introduce you to our project and show you how LogoRank works: [Youtube Video](https://youtu.be/Nv-kFxzV-Ws)
 
 We hope this demonstration gives you a clear understanding of our application and how it can benefit French language learners! 📚😊 
 
