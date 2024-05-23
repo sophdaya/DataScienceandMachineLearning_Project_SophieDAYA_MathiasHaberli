@@ -4,7 +4,7 @@
 
 ### Principle and Functionality
 
-LogoRank is designed to enhance language learning by classifying French YouTube videos by difficulty level (A1 to C2). This enables learners to find content that matches their skill level, guaranteeing an optimal learning experience.
+LogoRank is designed to enhance language learning by classifying French YouTube videos by interest and difficulty level (A1 to C2). This enables learners to find content that matches their skill level, guaranteeing an optimal learning experience.
 
 Users start by entering specific keywords related to their interests. For example, if a user is interested in tennis, they can enter the keyword "tennis." This allows the app to focus on retrieving videos that are relevant to the user's interests.
 
