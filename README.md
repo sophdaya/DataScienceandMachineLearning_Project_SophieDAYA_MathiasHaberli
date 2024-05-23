@@ -14,10 +14,11 @@ Once the keywords and skill level have been entered, LogoRank retrieves the YouT
 
 After analyzing the videos, LogoRank presents a list of videos that match the selected difficulty level of the user. Each video is displayed with its title, a brief description, and the determined difficulty level. This user-friendly interface makes it easy for learners to browse through the results and select videos that are suitable for their learning needs. The interface of the app is designed to be simple and intuitive. Users can easily input their keywords and select their proficiency level. The results are presented in an easy-to-navigate format, showing video titles, the number of recommended videos and links to the videos. Users can quickly find and access the videos most relevant to their learning objectives.
 
+
 ### 10.3. Demonstration in a video
 
-I hope you understood well how it works! 
-In this video, we will introduce you to our project and show you how LogoRank works: 
+In this video, we will introduce you to our project and show you how LogoRank works: https://youtu.be/Nv-kFxzV-Ws
+
 We hope this demonstration gives you a clear understanding of our application and how it can benefit French language learners. 
 
 
