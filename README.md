@@ -20,7 +20,6 @@
 #### Sophie Daya
 - Implemented the Logistic Regression and K-Nearest Neighbors (KNN) models.
 - Conducted hyperparameter tuning and performance evaluation for the Logistic Regression and KNN models.
-- Prepared the datasets and handled data preprocessing.
 - Analyzed the results and metrics for the Logistic Regression and KNN models.
 - Participated in drafting the README and documenting the project.
 - Editing the Youtube video on iMovie
