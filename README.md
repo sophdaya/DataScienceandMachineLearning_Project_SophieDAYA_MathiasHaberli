@@ -17,7 +17,7 @@ After analyzing the videos, LogoRank presents a list of videos that match the se
 
 ### 10.3. Demonstration in a video
 
-In this video, we will introduce you to our project and show you how LogoRank works. 😊 
+In this video, we will introduce you to our project and show you how LogoRank works! 🤩 
 
 You will learn about:
 
