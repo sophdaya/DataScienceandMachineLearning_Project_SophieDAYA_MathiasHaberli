@@ -21,13 +21,13 @@ In this video, we will introduce you to our project and show you how LogoRank wo
 
 You will learn about:
 
-Our mission to make language learning more accessible and enjoyable.
+**Our mission** to make language learning more accessible and enjoyable.
 
-The challenges learners face in finding content that suits their level.
+**The challenges** learners face in finding content that suits their level.
 
-How LogoRank solves these problems by classifying videos into difficulty levels (A1 to C2).
+**How LogoRank solves these problems** by classifying videos into difficulty levels (A1 to C2).
 
-A live demonstration of our app, including keyword search and video recommendations.
+**A live demonstration of our app**, including keyword search and video recommendations.
 
 We hope this demonstration gives you a clear understanding of our application and how it can benefit French language learners! 📚😊
 
