@@ -4,9 +4,9 @@
 
 ### Principle and Functionality
 
-<img width="875" alt="Capture d’écran 2024-05-23 à 11 47 30" src="https://github.com/sophdaya/Omega_SophieDAYA_MathiasHABERLI/assets/168346446/e8c76533-9680-41dd-9550-69583b481cb9">
-
 LogoRank is designed to enhance language learning by classifying French YouTube videos by interest and difficulty level (A1 to C2). This enables learners to find content that matches their skill level, guaranteeing an optimal learning experience.
+
+<img width="875" alt="Capture d’écran 2024-05-23 à 11 47 30" src="https://github.com/sophdaya/Omega_SophieDAYA_MathiasHABERLI/assets/168346446/e8c76533-9680-41dd-9550-69583b481cb9">
 
 Users start by entering specific keywords related to their interest
 s. For example, if a user is interested in crochet, they can enter the keyword "crochet." This allows the app to focus on retrieving videos that are relevant to the user's interests.
