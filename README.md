@@ -1,7 +1,7 @@
 # Predict the difficulty of French text using AI
 ### Directories and Files
 
-**App**
+- **App**
   - `App_Code_Streamlit.py`: Streamlit application code for interactive data visualization.
   - `CamemBERT_Model_For_App`: Pre-trained Camembert model for integration with the Streamlit app. As the file is too large, it is available for download via [this Google Drive link](https://drive.google.com/file/d/1I768jFU9ZFWEYv7Vz4naCnHYlUJG4bso/view?usp=share_link).
 
