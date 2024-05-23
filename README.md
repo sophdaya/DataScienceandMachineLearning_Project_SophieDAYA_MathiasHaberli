@@ -10,6 +10,13 @@
 - DataCamp. (n.d.). Decision Tree Classification in Python Tutorial. Retrieved from https://www.datacamp.com/tutorial/decision-tree-classification-python
 - Real Python. (n.d.). Implementing a K-Nearest Neighbors (KNN) Algorithm in Python. Retrieved from https://realpython.com/knn-python/#a-step-by-step-knn-from-scratch-in-python
 - GeeksforGeeks. (n.d.). Random Forest Hyperparameter Tuning in Python. Retrieved from https://www.geeksforgeeks.org/random-forest-hyperparameter-tuning-in-python/
+- GitHub Docs. (n.d.). Managing Your Profile README. Retrieved from https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+
+
+
+
+
 
 
 ### Participation Report
