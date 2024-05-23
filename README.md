@@ -1,36 +1,36 @@
 # Predict the difficulty of French text using AI
 ### Directories and Files
 
-- **App**
-  - `App_Code_Streamlit.py`
+**App**
+  - `App_Code_Streamlit.py`: Streamlit application code for interactive data visualization.
   
 - **dataset**
-  - `sample_submission.csv`
-  - `training_data.csv`
-  - `unlabelled_test_data.csv`
+  - `sample_submission.csv`: Sample submission file for predictions.
+  - `training_data.csv`: Training dataset containing sentences and difficulty levels.
+  - `unlabelled_test_data.csv`: Unlabelled test dataset for model evaluation.
 
 - **images**
-  - `Confusion_Matrix_Camembert.png`
-  - `Confusion_Matrix_Decision_Tree.png`
-  - `Confusion_Matrix_Erroneous_Predictions.png`
-  - `Confusion_Matrix_KNN.png`
-  - `Confusion_Matrix_Logistic.png`
-  - `Confusion_Matrix_Random_Forest.png`
-  - `Distribution_Error_Types.png`
-  - `Distribution_Lengths.png`
-  - `Types_Errors.png`
-  - `Types_Words_Errors.png`
+  - `Confusion_Matrix_Camembert.png`: Confusion matrix for the Camembert model.
+  - `Confusion_Matrix_Decision_Tree.png`: Confusion matrix for the Decision Tree model.
+  - `Confusion_Matrix_Erroneous_Predictions.png`: Confusion matrix for erroneous predictions.
+  - `Confusion_Matrix_KNN.png`: Confusion matrix for the K-Nearest Neighbors model.
+  - `Confusion_Matrix_Logistic.png`: Confusion matrix for the Logistic Regression model.
+  - `Confusion_Matrix_Random_Forest.png`: Confusion matrix for the Random Forest model.
+  - `Distribution_Error_Types.png`: Distribution of error types in predictions.
+  - `Distribution_Lengths.png`: Distribution of sentence lengths in the dataset.
+  - `Types_Errors.png`: Types of errors made by the models.
+  - `Types_Words_Errors.png`: Analysis of words causing errors in predictions.
   
 - **models**
-  - `camembert_model.py`
-  - `data_preparation.py`
-  - `decision_tree_model.py`
-  - `knn_model.py`
-  - `logistic_regression_model.py`
-  - `random_forest_model.py`
+  - `camembert_model.py`: Script to train and evaluate the Camembert model.
+  - `data_preparation.py`: Script for data preparation and preprocessing.
+  - `decision_tree_model.py`: Script to train and evaluate the Decision Tree model.
+  - `knn_model.py`: Script to train and evaluate the K-Nearest Neighbors model.
+  - `logistic_regression_model.py`: Script to train and evaluate the Logistic Regression model.
+  - `random_forest_model.py`: Script to train and evaluate the Random Forest model.
 
-- `Jupyter_Notebook.ipynb`
-- `README.md`
+- `Jupyter_Notebook.ipynb`: Jupyter Notebook for exploratory data analysis and model experiments.
+- `README.md`: Documentation and overview of the project.
 
 
 ## 10. Our App LogoRank
