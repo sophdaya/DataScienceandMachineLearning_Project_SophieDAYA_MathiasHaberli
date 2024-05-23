@@ -4,6 +4,8 @@
 
 - Hugging Face Model Hub. (n.d.). camembert-base. Retrieved from [https://huggingface.co/camembert-base](https://huggingface.co/docs/transformers/en/model_doc/camembert)
 - Streamlit Tutorial: Streamlit Documentation. (n.d.). Create an App. Retrieved from https://docs.streamlit.io/get-started/tutorials/create-an-app
+- Pandey, P. (2019). Logistic Regression Model Tuning with scikit-learn (Part 1). Retrieved from https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5
+- ProjectPro. (2023). Optimize Hyper Parameters of Logistic Regression Model using Grid Search in Python. Retrieved from https://www.projectpro.io/recipes/optimize-hyper-parameters-of-logistic-regression-model-using-grid-search-in-python
 
 
 ### Participation Report
