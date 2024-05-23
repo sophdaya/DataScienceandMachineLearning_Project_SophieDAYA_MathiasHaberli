@@ -12,9 +12,8 @@
 #### Mathias Häberli
 - Implemented the Decision Tree, Random Forest, and CamemBERT models.
 - Conducted hyperparameter tuning and performance evaluation for the Decision Tree, Random Forest, and CamemBERT models.
-- Prepared the datasets and handled data preprocessing.
 - Analyzed the results and metrics for the Decision Tree, Random Forest, and CamemBERT models.
-- Contributed to the development of the Streamlit application dor real-world application of the best model.
+- Contributed to the development of the Streamlit application for the real-world application of the best model.
 - Participated in drafting the README and documenting the project.
 - Conducted the final analysis and comparison of all models.
 
