@@ -1,40 +1,41 @@
 # Predict the difficulty of French text using AI
-Directories and Files
-### App
+### Directories and Files
 
-App_Code_Streamlit.py
+- **App**
 
-### dataset
+- App_Code_Streamlit.py
 
-sample_submission.csv
+- **dataset**
 
-training_data.csv
+- sample_submission.csv
 
-unlabelled_test_data.csv
+- training_data.csv
 
-###images
+- unlabelled_test_data.csv
 
-Confusion_Matrix_Camembert.png
+- **images**
 
-Confusion_Matrix_Decision_Tree.png
+- Confusion_Matrix_Camembert.png
 
-Confusion_Matrix_Erroneous_Predictions.png
+- Confusion_Matrix_Decision_Tree.png
 
-Confusion_Matrix_KNN.png
+- Confusion_Matrix_Erroneous_Predictions.png
 
-Confusion_Matrix_Logistic.png
+- Confusion_Matrix_KNN.png
 
-Confusion_Matrix_Random_Forest.png
+- Confusion_Matrix_Logistic.png
 
-Distribution_Error_Types.png
+- Confusion_Matrix_Random_Forest.png
 
-Distribution_Lengths.png
+- Distribution_Error_Types.png
 
-Types_Errors.png
+- Distribution_Lengths.png
 
-Types_Words_Errors.png
+- Types_Errors.png
 
-###models
+- Types_Words_Errors.png
+
+- **models**
 
 ## 10. Our App LogoRank
 
