@@ -16,10 +16,8 @@ After analyzing the videos, LogoRank presents a list of videos that match the se
 
 ### 10.3. Demonstration in a video
 
-I hope you understood well how it works! 
+I hope you understood well how it works! In this video, we will introduce you to our project and show you how LogoRank works: 
 
-
-<img width="875" alt="Capture d’écran 2024-05-23 à 11 47 30" src="https://github.com/sophdaya/Omega_SophieDAYA_MathiasHABERLI/assets/168346446/e8c76533-9680-41dd-9550-69583b481cb9">
 
 
 ## Overview of our project
