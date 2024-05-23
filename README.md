@@ -1,5 +1,10 @@
 # Predict the difficulty of French text using AI
 
+## References
+
+- **CamemBERT Model on Hugging Face**: Hugging Face Model Hub. (n.d.). camembert-base. Retrieved from https://huggingface.co/camembert-base
+
+
 ### Participation Report
 
 #### Joint Contributions
