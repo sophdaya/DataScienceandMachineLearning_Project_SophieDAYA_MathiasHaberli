@@ -2,6 +2,13 @@
 
 ### Participation Report
 
+#### Joint Contributions
+- Contributed to the overall project planning and organization.
+- Collaborated on the data preparation and preprocessing steps.
+- Worked together on the error analysis for the CamemBERT model.
+- Collaborated on creating the presentation video for the project.
+- Documenting the project and writing the README file.
+  
 #### Mathias Häberli
 - Implemented the Decision Tree, Random Forest, and CamemBERT models.
 - Conducted hyperparameter tuning and performance evaluation for the Decision Tree, Random Forest, and CamemBERT models.
@@ -19,12 +26,7 @@
 - Participated in drafting the README and documenting the project.
 - Editing the Youtube video on iMovie
 
-#### Joint Contributions
-- Contributed to the overall project planning and organization.
-- Collaborated on the data preparation and preprocessing steps.
-- Worked together on the error analysis for the CamemBERT model.
-- Collaborated on creating the presentation video for the project.
-- Shared responsibilities in documenting the project and writing the README file.
+
 
 
 
