@@ -23,6 +23,15 @@
   
 - **models**
   - `camembert_model.py`
+  - `data_preparation.py`
+  - `decision_tree_model.py`
+  - `knn_model.py`
+  - `logistic_regression_model.py`
+  - `random_forest_model.py`
+
+- `Jupyter_Notebook.ipynb`
+- `README.md`
+
 
 ## 10. Our App LogoRank
 
