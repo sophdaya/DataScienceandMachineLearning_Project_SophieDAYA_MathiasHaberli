@@ -7,6 +7,7 @@
 - Pandey, P. (2019). Logistic Regression Model Tuning with scikit-learn (Part 1). Retrieved from https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5
 - ProjectPro. (2023). Optimize Hyper Parameters of Logistic Regression Model using Grid Search in Python. Retrieved from https://www.projectpro.io/recipes/optimize-hyper-parameters-of-logistic-regression-model-using-grid-search-in-python
 - DataCamp. (n.d.). Decision Tree Classification in Python Tutorial. Retrieved from https://www.datacamp.com/tutorial/decision-tree-classification-python
+- Real Python. (n.d.). Implementing a K-Nearest Neighbors (KNN) Algorithm in Python. Retrieved from https://realpython.com/knn-python/#a-step-by-step-knn-from-scratch-in-python
 
 
 ### Participation Report
