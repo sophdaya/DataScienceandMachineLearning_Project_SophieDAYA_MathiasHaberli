@@ -30,6 +30,7 @@ How LogoRank solves these problems by classifying videos into difficulty levels 
 A live demonstration of our app, including keyword search and video recommendations.
 
 We hope this demonstration gives you a clear understanding of our application and how it can benefit French language learners! 📚😊
+
 Don't forget to watch the video! : [Youtube Video](https://youtu.be/Nv-kFxzV-Ws)
 
  
