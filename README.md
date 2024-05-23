@@ -5,6 +5,13 @@
 ### Principle and Functionality
 
 LogoRank is designed to enhance language learning by classifying French YouTube videos by difficulty level (A1 to C2). This enables learners to find content that matches their skill level, guaranteeing an optimal learning experience.
+
+Users can enter keywords to find videos on topics that interest them. For example, if a user searches for "tennis," the app will display videos related to tennis. Users can also select their skill level (A1 to C2), enabling LogoRank to filter and present videos matching their skill level. The application analyzes video transcripts using the CamemBERT model, which takes into account vocabulary complexity, sentence structure and language usage to determine difficulty levels.
+
+The simple, intuitive user interface makes it easy to enter keywords and select proficiency levels. Results are displayed in a clear format with video titles, the number of recommended videos, and difficulty levels.
+
+LogoRank's functionality comprises three main steps: users enter keywords and select their skill level, the application retrieves and analyzes corresponding YouTube videos, and finally, it presents a list of suitable videos with detailed information. This approach provides learners with appropriate materials, reinforces their engagement and promotes targeted language practice, guaranteeing an optimal learning experience.
+
 ## Overview of our project
 We created a startup, LogoRank, to revolutionise language learning. Our repository contains the code, data, and documentation for our machine learning model that predicts the difficulty level of French texts (from A1 to C2). This project aims to build a model that can predict the difficulty level of French texts. Indeed, it would help learners to find texts that match their skill level. 
 
