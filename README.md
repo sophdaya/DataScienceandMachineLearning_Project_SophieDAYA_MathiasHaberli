@@ -1,5 +1,10 @@
 # Predict the difficulty of French text using AI
 
+### Our App LogoRank
+
+## Principle and Functionality
+
+LogoRank is designed to enhance language learning by classifying French YouTube videos by difficulty level (A1 to C2). This enables learners to find content that matches their skill level, guaranteeing an optimal learning experience.
 ## Overview of our project
 We created a startup, LogoRank, to revolutionise language learning. Our repository contains the code, data, and documentation for our machine learning model that predicts the difficulty level of French texts (from A1 to C2). This project aims to build a model that can predict the difficulty level of French texts. Indeed, it would help learners to find texts that match their skill level. 
 
