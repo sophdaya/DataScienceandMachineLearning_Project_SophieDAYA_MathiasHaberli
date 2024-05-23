@@ -2,7 +2,7 @@
 
 ## References
 
-- **CamemBERT Model on Hugging Face**: Hugging Face Model Hub. (n.d.). camembert-base. Retrieved from https://huggingface.co/camembert-base
+- **CamemBERT Model on Hugging Face**: Hugging Face Model Hub. (n.d.). camembert-base. Retrieved from [https://huggingface.co/camembert-base](https://huggingface.co/docs/transformers/en/model_doc/camembert)
 
 
 ### Participation Report
