@@ -12,6 +12,9 @@ Once the keywords and skill level have been entered, LogoRank retrieves the YouT
 
 After analyzing the videos, LogoRank presents a list of videos that match the selected difficulty level of the user. Each video is displayed with its title, a brief description, and the determined difficulty level. This user-friendly interface makes it easy for learners to browse through the results and select videos that are suitable for their learning needs. The interface of the app is designed to be simple and intuitive. Users can easily input their keywords and select their proficiency level. The results are presented in an easy-to-navigate format, showing video titles, the number of recommended videos and links to the videos. Users can quickly find and access the videos most relevant to their learning objectives.
 
+<img width="875" alt="Capture d’écran 2024-05-23 à 11 46 44" src="https://github.com/sophdaya/Omega_SophieDAYA_MathiasHABERLI/assets/168346446/eb30aaef-a875-4a20-82f3-4a90c7696de0">
+
+
 ### 10.3. Demonstration in a video
 
 For example, if a user is interested in crochet, they can enter the keyword "crochet."
