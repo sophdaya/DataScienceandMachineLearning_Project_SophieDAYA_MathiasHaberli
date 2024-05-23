@@ -16,7 +16,9 @@ After analyzing the videos, LogoRank presents a list of videos that match the se
 
 ### 10.3. Demonstration in a video
 
-I hope you understood well how it works! In this video, we will introduce you to our project and show you how LogoRank works: 
+I hope you understood well how it works! 
+In this video, we will introduce you to our project and show you how LogoRank works: 
+We hope this demonstration gives you a clear understanding of our application and how it can benefit French language learners. 
 
 
 
